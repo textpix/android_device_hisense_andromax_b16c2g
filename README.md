@@ -1,0 +1,1 @@
+# android_device_hisense_e2plus
