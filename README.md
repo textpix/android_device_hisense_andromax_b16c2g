@@ -1,1 +1,1 @@
-# android_device_hisense_b16c2g
+# android_device_hisense_andromax_b16c2g
